@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: CropGuard AI, a tomato leaf disease screening system built with PyTorch (ResNet18), Grad-CAM explainability and a Streamlit app.<br>👯 I’m looking to collaborate on: Applied deep learning and NLP projects, especially explainable AI, computer vision, and LLM/RAG-based apps.<br>🤝 I’m looking for help with: Getting my first ML/AI internship, and taking models from notebooks to production (Docker, deployment, MLOps).<br>🌱 I’m currently learning: Transformers, LLMs and RAG, while sharpening my DSA in Java.<br>💬 Ask me about: PyTorch, model evaluation and robustness testing, Grad-CAM, DSA , or Java OOP.
+Saptarshi Bhattacharjee<br><br>Third-Year B.Tech Computer Science Student | Aspiring ML/AI Engineer<br>Kolkata, India<br><br>Introduction<br><br>I am a third-year B.Tech Computer Science student at Kalinga Institute of Industrial Technology (KIIT), seeking an ML/AI internship. I build end-to-end deep learning systems, covering model fine-tuning, rigorous evaluation, explainability, and deployment as interactive applications. I also have a strong foundation in data structures and algorithms in C.<br><br>About Me<br><br>Currently working on:<br>CropGuard AI, a tomato leaf disease screening system built with PyTorch (ResNet18), Grad-CAM explainability, and a Streamlit interface.<br><br>Looking to collaborate on:<br>Applied deep learning and NLP projects, particularly in explainable AI, computer vision, and LLM/RAG-based applications.<br><br>Looking for help with:<br>Securing an ML/AI internship, and moving models from experimentation to production using Docker and deployment best practices.<br><br>Currently learning:<br>Transformers, large language models, and retrieval-augmented generation (RAG), alongside continued practice in data structures and algorithms.<br><br>Ask me about:<br>PyTorch, model evaluation and robustness testing, Grad-CAM, DSA in C, and object-oriented programming in Java.<br><br>Fun fact:<br>I stress-test my models against blur, darkness, and rotation to see how they behave on imperfect real-world data.<br><br>The fun fact is a placeholder based on your project, so replace it with something personal if you prefer. I can also trim the introduction to two lines if the page needs to be more compact.
 
 
 ## 🌐 Socials:
@@ -12,13 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=saptarshibhattacharjee067&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=saptarshibhattacharjee067&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saptarshibhattacharjee067&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=saptarshibhattacharjee067&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=saptarshibhattacharjee067&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
